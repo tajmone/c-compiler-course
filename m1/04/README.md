@@ -1,4 +1,4 @@
-# m1.04. Preparing our project
+# m1.04. Preparing Our Project
 
 -----
 

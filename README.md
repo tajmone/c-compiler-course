@@ -23,7 +23,8 @@
 # Project Contents
 
 - [`/m1/`][m1/] — [Module 1]:
-    + [`/04/`][04/] — Preparing our project.
+    + [`/04/`][04/] — Preparing Our Project.
+    + [`/06/`][06/] — Creating Our Token Structures.
 - [`LICENSE`][LICENSE] — GPLv2 License.
 
 # About
@@ -50,8 +51,10 @@ I also took the liberty to fix some obvious typos in source comments and strings
 
 ## Personal Notes
 
-This being first and foremost my personal study project, I'm including my own course notes and reference links within the project, for my own benefit.
-If these turn out to be useful to others, that's an added value.
+This being first and foremost my personal study project, I'm including my own course notes and reference links within the project, for my own benefit, and often tweak the original comments in the source files, or even add new ones, as a means to annotate my learning process.
+
+If these extra annotations turn out to be useful to others, that's an added value.
+Just beware at all times that this repository is a _**personal project**_, and that the assets herein contained often contain various changes compared to the original course material.
 
 ## Windows Tested
 
@@ -89,7 +92,8 @@ All the C source assets in this project were taken from the [PeachCompiler] and 
 <!-- files & folders -->
 
 [m1/]: ./m1/ "Module 1"
-[04/]: ./m1/04/ "Lesson 4: Preparing our project"
+[04/]: ./m1/04/ "Lesson 4: Preparing Our Project"
+[06/]: ./m1/06/ "Lesson 6: Creating Our Token Structures"
 
 [LICENSE]: ./LICENSE "GPLv2 License"
 
