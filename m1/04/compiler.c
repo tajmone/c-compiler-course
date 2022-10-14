@@ -5,11 +5,11 @@ int compile_file(const char* filename, const char* out_filename, int flags)
     if (!process)
         return COMPILER_FAILED_WITH_ERRORS;
 
-    // Perform lexical analysis
+    // (1/3) Perform lexical analysis
 
-    // Perform parsing
+    // (2/3) Perform parsing
 
-    // Perform code generation
+    // (3/3) Perform code generation
 
     return COMPILER_FILE_COMPILED_OK;
 }
