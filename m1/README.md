@@ -8,6 +8,7 @@ _[Creating a C Compiler From Scratch: Module 1]_, by [Daniel McCarthy], 2022.
 
 - [`/04/`][04/] — Preparing Our Project.
 - [`/06/`][06/] — Creating Our Token Structures.
+- [`/07/`][07/] — Preparing Our Lexer.
 
 
 <!-----------------------------------------------------------------------------
@@ -20,7 +21,8 @@ _[Creating a C Compiler From Scratch: Module 1]_, by [Daniel McCarthy], 2022.
 
 <!-- subfolders -->
 
-[04/]: ./04/ "Lesson 4: Preparing Our Project"
-[06/]: ./m1/06/ "Lesson 6: Creating Our Token Structures"
+[04/]: ./04/ "Module 1 Lesson 4: Preparing Our Project"
+[06/]: ./06/ "Module 1 Lesson 6: Creating Our Token Structures"
+[07/]: ./07/ "Module 1 Lesson 7: Preparing Our Lexer"
 
 <!-- EOF -->

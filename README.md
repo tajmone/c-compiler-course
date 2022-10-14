@@ -25,6 +25,7 @@
 - [`/m1/`][m1/] — [Module 1]:
     + [`/04/`][04/] — Preparing Our Project.
     + [`/06/`][06/] — Creating Our Token Structures.
+    + [`/07/`][07/] — Preparing Our Lexer.
 - [`LICENSE`][LICENSE] — GPLv2 License.
 
 # About
@@ -92,8 +93,9 @@ All the C source assets in this project were taken from the [PeachCompiler] and 
 <!-- files & folders -->
 
 [m1/]: ./m1/ "Module 1"
-[04/]: ./m1/04/ "Lesson 4: Preparing Our Project"
-[06/]: ./m1/06/ "Lesson 6: Creating Our Token Structures"
+[04/]: ./m1/04/ "Module 1 Lesson 4: Preparing Our Project"
+[06/]: ./m1/06/ "Module 1 Lesson 6: Creating Our Token Structures"
+[07/]: ./m1/07/ "Module 1 Lesson 7: Preparing Our Lexer"
 
 [LICENSE]: ./LICENSE "GPLv2 License"
 
